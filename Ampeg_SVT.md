@@ -1,4 +1,4 @@
-\# Ampeg SVT
+**Ampeg SVT**
 
 
 
@@ -15,6 +15,6 @@ Mid: 6
 Treble: 4
 
 
-
+**Notes:**
 Big rock tone.
 
