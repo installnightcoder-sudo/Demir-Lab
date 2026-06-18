@@ -9,3 +9,5 @@ Feel free to add
 Crazy Plexi Lead
 
 Sparkle Fender Clean
+
+Ampeg SVT
