@@ -5,6 +5,7 @@ Feel free to add
 
 
 **NEW TONES**
+(updated daily)
 
 Crazy Plexi Lead
 
