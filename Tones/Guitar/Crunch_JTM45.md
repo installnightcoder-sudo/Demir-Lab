@@ -1,4 +1,4 @@
-#Crunch JTM45 
+**Crunch JTM45**
 
 
 **Guitar: Telecaster (Bridge pickup)**
