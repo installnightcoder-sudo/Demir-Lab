@@ -7,8 +7,4 @@ Feel free to add
 **NEW TONES**
 (updated daily)
 
-Crazy Plexi Lead
-
-Sparkle Fender Clean
-
-Ampeg SVT
+Orange CHUG
